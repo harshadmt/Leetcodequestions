@@ -19,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/harshadmt/Leetcodequestions/tree/master/0029-divide-two-integers) |
+## String
+|  |
+| ------- |
+| [0742-to-lower-case](https://github.com/harshadmt/Leetcodequestions/tree/master/0742-to-lower-case) |
 <!---LeetCode Topics End-->
