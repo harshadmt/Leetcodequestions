@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/harshadmt/Leetcodequestions/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/harshadmt/Leetcodequestions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/harshadmt/Leetcodequestions/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/harshadmt/Leetcodequestions/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/harshadmt/Leetcodequestions/tree/master/0075-sort-colors) |
 ## Math
 |  |
 | ------- |
@@ -31,5 +33,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/harshadmt/Leetcodequestions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/harshadmt/Leetcodequestions/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
