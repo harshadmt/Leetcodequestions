@@ -22,10 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/harshadmt/Leetcodequestions/tree/master/0029-divide-two-integers) |
+| [0231-power-of-two](https://github.com/harshadmt/Leetcodequestions/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/harshadmt/Leetcodequestions/tree/master/0029-divide-two-integers) |
+| [0231-power-of-two](https://github.com/harshadmt/Leetcodequestions/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -42,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/harshadmt/Leetcodequestions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/harshadmt/Leetcodequestions/tree/master/0217-contains-duplicate) |
 | [1019-squares-of-a-sorted-array](https://github.com/harshadmt/Leetcodequestions/tree/master/1019-squares-of-a-sorted-array) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/harshadmt/Leetcodequestions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
