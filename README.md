@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/harshadmt/Leetcodequestions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/harshadmt/Leetcodequestions/tree/master/0217-contains-duplicate) |
 | [1019-squares-of-a-sorted-array](https://github.com/harshadmt/Leetcodequestions/tree/master/1019-squares-of-a-sorted-array) |
+| [1603-running-sum-of-1d-array](https://github.com/harshadmt/Leetcodequestions/tree/master/1603-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/harshadmt/Leetcodequestions/tree/master/0100-same-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/harshadmt/Leetcodequestions/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
