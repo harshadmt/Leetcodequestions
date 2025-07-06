@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/harshadmt/Leetcodequestions/tree/master/0125-valid-palindrome) |
 | [0742-to-lower-case](https://github.com/harshadmt/Leetcodequestions/tree/master/0742-to-lower-case) |
+| [1205-defanging-an-ip-address](https://github.com/harshadmt/Leetcodequestions/tree/master/1205-defanging-an-ip-address) |
 | [1894-merge-strings-alternately](https://github.com/harshadmt/Leetcodequestions/tree/master/1894-merge-strings-alternately) |
 ## Hash Table
 |  |
