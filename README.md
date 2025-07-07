@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/harshadmt/Leetcodequestions/tree/master/0217-contains-duplicate) |
 | [1019-squares-of-a-sorted-array](https://github.com/harshadmt/Leetcodequestions/tree/master/1019-squares-of-a-sorted-array) |
 | [1603-running-sum-of-1d-array](https://github.com/harshadmt/Leetcodequestions/tree/master/1603-running-sum-of-1d-array) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/harshadmt/Leetcodequestions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/harshadmt/Leetcodequestions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Two Pointers
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/harshadmt/Leetcodequestions/tree/master/0125-valid-palindrome) |
 | [0742-to-lower-case](https://github.com/harshadmt/Leetcodequestions/tree/master/0742-to-lower-case) |
 | [1205-defanging-an-ip-address](https://github.com/harshadmt/Leetcodequestions/tree/master/1205-defanging-an-ip-address) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/harshadmt/Leetcodequestions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1894-merge-strings-alternately](https://github.com/harshadmt/Leetcodequestions/tree/master/1894-merge-strings-alternately) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/harshadmt/Leetcodequestions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Hash Table
