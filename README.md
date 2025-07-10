@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/harshadmt/Leetcodequestions/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/harshadmt/Leetcodequestions/tree/master/0231-power-of-two) |
+| [0412-fizz-buzz](https://github.com/harshadmt/Leetcodequestions/tree/master/0412-fizz-buzz) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/harshadmt/Leetcodequestions/tree/master/0125-valid-palindrome) |
+| [0412-fizz-buzz](https://github.com/harshadmt/Leetcodequestions/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/harshadmt/Leetcodequestions/tree/master/0742-to-lower-case) |
 | [1205-defanging-an-ip-address](https://github.com/harshadmt/Leetcodequestions/tree/master/1205-defanging-an-ip-address) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/harshadmt/Leetcodequestions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -75,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/harshadmt/Leetcodequestions/tree/master/1603-running-sum-of-1d-array) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/harshadmt/Leetcodequestions/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
