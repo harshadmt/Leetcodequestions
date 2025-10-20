@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/harshadmt/Leetcodequestions/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/harshadmt/Leetcodequestions/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/harshadmt/Leetcodequestions/tree/master/0338-counting-bits) |
 ## String
 |  |
 | ------- |
@@ -84,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/harshadmt/Leetcodequestions/tree/master/0412-fizz-buzz) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/harshadmt/Leetcodequestions/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
